@@ -1,0 +1,8 @@
+{
+  "name": "a-frame-training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:diescake/a-frame-training.git",
+  "author": "diescake",
+  "license": "MIT"
+}
